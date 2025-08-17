@@ -110,20 +110,20 @@ using namespace std;
 // }
 
 // factorial number
-int main()
-{
-    int i;
-    int n,fact=1;
-    cout<<"enter the number: ";
-    cin>>n;
-    for(i=1;i<=n;i=i+1)
-    {
-        fact=fact*i;
+// int main()
+// {
+//     int i;
+//     int n,fact=1;
+//     cout<<"enter the number: ";
+//     cin>>n;
+//     for(i=1;i<=n;i=i+1)
+//     {
+//         fact=fact*i;
 
-    }
-    cout<<fact;
+//     }
+//     cout<<fact;
 
-}
+// }
 
 // fibonacci number 
 // int main()
@@ -251,6 +251,7 @@ int main()
 //     }
 //     return 0;
 // }
+
 
 
 
